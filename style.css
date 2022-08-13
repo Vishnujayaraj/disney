@@ -1,0 +1,15 @@
+.textbot{
+    font-size: small;
+  word-spacing: 10px;
+}
+.bot{
+    font-size: small;
+}
+.botpanel ul{
+    display: flex;
+    
+   
+}
+.botitems{
+    list-style: none;
+}
